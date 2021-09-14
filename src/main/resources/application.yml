@@ -1,2 +1,6 @@
+spring:
+  application:
+    name: "trader"
+
 server:
   port: 0
